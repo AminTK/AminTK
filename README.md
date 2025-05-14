@@ -25,34 +25,63 @@
 
 <h1 align="left"> 🛠️ Tech Stack </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/NLTK-9FCC00?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/BERT-005571?style=for-the-badge&logo=bert&logoColor=white" alt="BERT"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
-  https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000
-
+  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge&logo=lightgbm&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/NLTK-9FCC00?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/BERT-005571?style=for-the-badge&logo=bert&logoColor=white" alt="BERT"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
+<hr style="height: 3px; background-color: black; border: none;">
 
+<h1 align="left"> 🚀 Projects </h1>
+<p align="left">
+<table>
+  <tr>
+    <td>
+      <h4>📊 <a href="https://github.com/username/diabetes-prediction" target="_blank">پیش‌بینی بیماری دیابت</a></h4>
+      <p>مدل یادگیری ماشین برای پیش‌بینی احتمال دیابت با داده‌های پزشکی بیماران و الگوریتم‌های RandomForest و Logistic Regression.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🏥 <a href="https://github.com/username/emergency-dashboard" target="_blank">تحلیل ترافیک اورژانس بیمارستان</a></h4>
+      <p>داشبورد تعاملی Power BI برای بررسی ترافیک زمانی بیماران در بخش اورژانس و ارائه الگوهای شلوغی.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>🕵️‍♂️ <a href="https://github.com/username/fraud-detection" target="_blank">تشخیص تقلب در تراکنش‌های مالی</a></h4>
+      <p>شناسایی تراکنش‌های جعلی در دیتاست‌های نامتوازن با تکنیک‌های SMOTE، ADASYN و الگوریتم‌های طبقه‌بندی مانند XGBoost.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h4>💬 <a href="https://github.com/username/sentiment-analysis-nlp" target="_blank">تحلیل احساسات نظرات کاربران</a></h4>
+      <p>تحلیل احساسات (مثبت، منفی، خنثی) با مدل BERT و پردازش زبان طبیعی (NLP) با کتابخانه‌های spaCy و HuggingFace.</p>
+    </td>
+  </tr>
+</table>
 
-
+# <a href="https://github.com/username/project" target="_blank">
+#  <img src="https://img.shields.io/badge/View%20on-GitHub-black?logo=github" />
+# </a>
 
 
