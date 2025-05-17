@@ -12,7 +12,9 @@
 
 <p align="center"> 🔗 Lets connect, sharing ideas, collaborating and exploring opportunities in the world of Data with AI </p>
 
-![Visitors](https://komarev.com/ghpvc/?username=AminTK&label=Visitors&color=blue&style=plastic&base=150) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AminTK&label=Visitors&color=blue&style=plastic&base=150" alt="Visitors Counter" />
+</p>
 
 <h1 align="left"> 🧠 Technical Skills </h1>
 <p align="left">
@@ -21,7 +23,7 @@
   <li> Databases: SQL Server Management StudioI </li>
   <li> Machine Learning & Data Science: Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Model Evaluation & Validation | Cross-Validation </li>
   <li> Deep Learning & Natural Language Processing: TensorFlow | PyTorch | NLTK | BERT | spaCy </li>
-  <li> Data Manipulation & Analysis: Pandas | NumPy | Scikit-learn | spaCy | Re </li>
+  <li> Data Manipulation & Analysis: Pandas | NumPy | Scikit-learn | Scipy | Re </li>
   <li> Data Visualization: Matplotlib | Seaborn | Plotly </li>
 </ul>
 
@@ -29,29 +31,33 @@
 
 <h1 align="left"> 🛠️ Tech Stack </h1>
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=117121&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=O6SWwpPIM0GB&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"/>
-  <img src="https://img.icons8.com/?size=100&id=13654&format=png&color=000000"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/numpy.png" alt="NumPy" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Artificial Intelligence" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/pycharm.png" alt="PyCharm" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Anaconda_Logo.png" alt="Anaconda" width="100" height="30"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-4B8BBE?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-blueviolet?style=plastic&logo=xgboost&logoColor=white" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/LightGBM-brightgreen?style=plastic&logo=lightgbm&logoColor=white" alt="LightGBM"/>
   <img src="https://img.shields.io/badge/NLTK-red?style=plastic&logo=nltk&logoColor=white" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/Scipy-lightgrey?style=plastic&logo=python&logoColor=white" alt="Scipy"/>
+  <img src="https://img.shields.io/badge/Scipy-lightgrey?style=plastic&logo=scipy&logoColor=white" alt="Scipy"/>
   <img src="https://img.shields.io/badge/BERT-ff69b4?style=plastic&logo=bert&logoColor=white" alt="BERT"/>
-  <img src="https://img.shields.io/badge/Keras-green?style=plastic&logo=python&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Keras-green?style=plastic&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/spaCy-yellow?style=plastic&logo=spacy&logoColor=white" alt="spaCy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-F7931E?style=plastic&logo=python&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Seaborn-F7931E?style=plastic&logo=seaborn&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white" alt="Plotly"/>
 </p>
 
