@@ -10,6 +10,12 @@
 
 <p align="center">  Currently, I’m diving deeper into Natural Language Processing (NLP) and Computer Vision </p>
 
+<p align="center"> 🔗 Lets connect, sharing ideas, collaborating and exploring opportunities in the world of Data with AI </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
 <h1 align="left"> 🧠 Technical Skills </h1>
 <p align="left">
 <ul style="list-style-type: square;">
@@ -56,32 +62,23 @@
 <table>
   <tr>
     <td>
-      <h4>📊 <a href="https://github.com/username/diabetes-prediction" target="_blank">پیش‌بینی بیماری دیابت</a></h4>
-      <p>مدل یادگیری ماشین برای پیش‌بینی احتمال دیابت با داده‌های پزشکی بیماران و الگوریتم‌های RandomForest و Logistic Regression.</p>
+      <h4> 📈 <a href="https://github.com/username/diabetes-prediction" target="_blank" > Stroke Prediction </a></h4> 
+      <p> Machine learning model for predicting stroke probability with patient medical data and RandomForest and Logistic Regression algorithms. </p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4>🏥 <a href="https://github.com/username/emergency-dashboard" target="_blank">تحلیل ترافیک اورژانس بیمارستان</a></h4>
-      <p>داشبورد تعاملی Power BI برای بررسی ترافیک زمانی بیماران در بخش اورژانس و ارائه الگوهای شلوغی.</p>
+      <h4> 🛠️ <a href="https://github.com/username/emergency-dashboard" target="_blank" > Credit Card Fraud Detection </a></h4>
+      <p> we optimized the dataset, analyzed the data and the relationships between its variables, and ultimately identified the dataset type and the appropriate methods required for it. Using methods like SMOTE, ADASYN and TomekLinks, we trained various models while optimizing them to determine the most efficient model for predicting and detecting fraudulent transactions. </p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4>🕵️‍♂️ <a href="https://github.com/username/fraud-detection" target="_blank">تشخیص تقلب در تراکنش‌های مالی</a></h4>
-      <p>شناسایی تراکنش‌های جعلی در دیتاست‌های نامتوازن با تکنیک‌های SMOTE، ADASYN و الگوریتم‌های طبقه‌بندی مانند XGBoost.</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>💬 <a href="https://github.com/username/sentiment-analysis-nlp" target="_blank">تحلیل احساسات نظرات کاربران</a></h4>
-      <p>تحلیل احساسات (مثبت، منفی، خنثی) با مدل BERT و پردازش زبان طبیعی (NLP) با کتابخانه‌های spaCy و HuggingFace.</p>
+      <h4> 📊 <a href="https://github.com/username/fraud-detection" target="_blank" > AI and ML Job Listings USA </a></h4>
+      <p> Using NLP tools and techniques to understand the condition of each descriptions options. </p>
     </td>
   </tr>
 </table>
 
-# <a href="https://github.com/username/project" target="_blank">
-#  <img src="https://img.shields.io/badge/View%20on-GitHub-black?logo=github" />
-# </a>
 
 
