@@ -32,20 +32,20 @@
 <h1 align="left"> 🛠️ Tech Stack </h1>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=50&id=F4uMFPZgS0gt&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/numpy.png" alt="NumPy" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Artificial Intelligence" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/pycharm.png" alt="PyCharm" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Anaconda_Logo.png" alt="Anaconda" width="100" height="30"/>
+  <img src="https://img.icons8.com/color/96/numpy.png" alt="NumPy" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-4B8BBE?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -68,20 +68,23 @@
 <table>
   <tr>
     <td>
-      <h4> 📈 <a href="https://github.com/username/diabetes-prediction" target="_blank" > Stroke Prediction </a></h4> 
-      <p> Machine learning model for predicting stroke probability with patient medical data and RandomForest and Logistic Regression algorithms. </p>
+      <h4> 📈 <a href="https://github.com/AminTK/stroke-prediction"> Stroke Prediction </a></h4>
+      <p> Machine learning model for predicting stroke probability using medical data with Random Forest and Logistic Regression. </p>
+      <p> 🔗 <a href="https://github.com/AminTK/stroke-prediction"> View Project </a></p>
     </td>
   </tr>
   <tr>
     <td>
       <h4> 🛠️ <a href="https://github.com/username/emergency-dashboard" target="_blank" > Credit Card Fraud Detection </a></h4>
       <p> Optimized the dataset, analyzed the data and the relationships between its variables, and ultimately identified the dataset type and the appropriate methods required for it. Using methods like SMOTE, ADASYN and TomekLinks, trained various models while optimizing them to determine the most efficient model for predicting and detecting fraudulent transactions. </p>
+      <p> 🔗 <a href="https://github.com/AminTK/Credit-Card-Fraud-Detection.git"> View Project </a></p>
     </td>
   </tr>
   <tr>
     <td>
       <h4> 📊 <a href="https://github.com/username/fraud-detection" target="_blank" > AI and ML Job Listings USA </a></h4>
       <p> Using NLP tools and techniques to understand the condition of each descriptions options. </p>
+      <p> 🔗 <a href="https://www.kaggle.com/code/amintavanaie/analyzing-ai-ml-jobs-in-usa-with-nlp"> View Project </a></p>
     </td>
   </tr>
 </table>
