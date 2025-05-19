@@ -89,23 +89,27 @@
   </tr>
 </table>
 
-### 📊 GitHub Stats
+<hr style="height: 3px; background-color: black; border: none;">
+
+<h1 align="left"> 📊 GitHub Stats </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminTK&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminTK&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AminTK&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AminTK&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminTK&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AminTK&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AminTK&theme=default" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AminTK&area=true&theme=react" alt="Contribution Graph" />
 </p>
 
+<hr style="height: 3px; background-color: black; border: none;">
+
+<h1 align="left"> 🏆 GitHub Stats </h1>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AminTK&theme=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AminTK&theme=flat&no-frame=true&margin-w=10" alt="Trophies" />
 </p>
 
