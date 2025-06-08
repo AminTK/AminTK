@@ -25,6 +25,7 @@
   <li> Deep Learning & Natural Language Processing: TensorFlow | PyTorch | NLTK | BERT | spaCy </li>
   <li> Data Manipulation & Analysis: Pandas | NumPy | Scikit-learn | Scipy | Re </li>
   <li> Data Visualization: Matplotlib | Seaborn | Plotly </li>
+  <li> PaaS: Docker </li>
 </ul>
 
 <hr style="height: 3px; background-color: black; border: none;">
