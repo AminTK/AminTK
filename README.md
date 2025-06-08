@@ -39,6 +39,8 @@
   <img src="https://img.icons8.com/?size=50&id=F4uMFPZgS0gt&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50" height="50"/>
+  <img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/>
@@ -48,8 +50,6 @@
   <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" width="50" height="50"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-4B8BBE?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
