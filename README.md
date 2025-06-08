@@ -47,6 +47,7 @@
   <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" width="50" height="50"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-4B8BBE?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
