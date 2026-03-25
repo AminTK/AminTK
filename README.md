@@ -22,11 +22,9 @@
   <li> Programming Languages: Python </li>
   <li> Databases: SQL Server Management StudioI </li>
   <li> Machine Learning & Data Science: Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Model Evaluation & Validation | Cross-Validation </li>
-  <li> Deep Learning & Natural Language Processing: TensorFlow | PyTorch | NLTK | BERT | spaCy </li>
+  <li> Deep Learning & Natural Language Processing: TensorFlow |  NLTK | BERT | spaCy </li>
   <li> Data Manipulation & Analysis: Pandas | NumPy | Scikit-learn | Scipy | Re </li>
   <li> Data Visualization: Matplotlib | Seaborn | Plotly </li>
-  <li> PaaS: Docker </li>
-  <li> workflow automation platform: n8n </li>
 </ul>
 
 <hr style="height: 3px; background-color: black; border: none;">
@@ -35,12 +33,9 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=50&id=F4uMFPZgS0gt&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub" width="50" height="50"/>
-  <img src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" width="50" height="50"/>
-  <img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/>
