@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/NLTK-red?style=plastic&logo=nltk&logoColor=white" alt="NLTK"/>
   <img src="https://img.shields.io/badge/Scipy-lightgrey?style=plastic&logo=scipy&logoColor=white" alt="Scipy"/>
   <img src="https://img.shields.io/badge/BERT-ff69b4?style=plastic&logo=bert&logoColor=white" alt="BERT"/>
-  <img src="https://img.shields.io/badge/Keras-green?style=plastic&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/spaCy-yellow?style=plastic&logo=spacy&logoColor=white" alt="spaCy"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-F7931E?style=plastic&logo=seaborn&logoColor=white" alt="Seaborn"/>
