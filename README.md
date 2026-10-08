@@ -4,8 +4,6 @@
 
 <hr style="height: 3px; background-color: black; border: none;">
 
-<p align="center">  I explore the intersection of data and AI to drive real-world impact and passionate about solving real-world challenges using cutting-edge algorithms </p>
-
 <p align="center">  I read the history of data, share my knowledge, provide intelligent solutions and collaborate on innovations that matter </p>
 
 <p align="center">  Currently, I’m diving deeper into Natural Language Processing (NLP) and Computer Vision </p>
