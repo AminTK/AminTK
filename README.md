@@ -17,12 +17,11 @@
 <h1 align="left"> 🧠 Technical Skills </h1>
 <p align="left">
 <ul style="list-style-type: square;">
-  <li> Programming Languages: Python </li>
-  <li> Databases: SQL Server Management StudioI </li>
-  <li> Machine Learning & Data Science: Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Model Evaluation & Validation | Cross-Validation </li>
-  <li> Deep Learning & Natural Language Processing: TensorFlow |  NLTK | BERT | spaCy </li>
-  <li> Data Manipulation & Analysis: Pandas | NumPy | Scikit-learn | Scipy | Re </li>
-  <li> Data Visualization: Matplotlib | Seaborn | Plotly </li>
+  <li> Languages & Tools: Python, SQL, Excel, Jupyter Notebook, VS Code, Git/GitHub </li>
+  <li> Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Scipy, Re </li>
+  <li> Machine Learning & Data Science: Supervised & Unsupervised Learning, Classification, Regression, Logistic Regression, Random Forest, SVM, Cross-Validation, SMOTE (imbalanced data) </li>
+  <li> Data Work: EDA, Data Cleaning, Feature Engineering, Missing Value Imputation, Outlier Detection </li>
+  <li> Visualization & Reporting: Power BI, Data Storytelling </li>
 </ul>
 
 <hr style="height: 3px; background-color: black; border: none;">
@@ -33,16 +32,14 @@
   <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" width="50" height="50"/>
   <img src="https://img.icons8.com/?size=50&id=F4uMFPZgS0gt&format=png&color=000000"/>
   <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/96/pycharm.png" alt="PyCharm" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-sql-server.png" alt="SQL Server" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/artificial-intelligence.png" alt="Artificial Intelligence" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/pycharm.png" alt="PyCharm" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/numpy.png" alt="NumPy" width="50" height="50"/>
   <img src="https://img.icons8.com/color/96/pandas.png" alt="Pandas" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="PyTorch" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow" width="50" height="50"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--learn-4B8BBE?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
@@ -64,25 +61,42 @@
 <table>
   <tr>
     <td>
-      <h4> 📈 <a href="https://github.com/AminTK/stroke-prediction"> Stroke Prediction </a></h4>
-      <p> Machine learning model for predicting stroke probability using medical data with Random Forest and Logistic Regression. </p>
-      <p> 🔗 <a href="https://github.com/AminTK/stroke-prediction"> View Project </a></p>
+      <h4> 📈 <a href="https://github.com/AminTK/World-University-Rankings"> World University Rankings </a></h4>
+      <p> Analyzing the university rankings using data visualization techniques to identify trends, correlations, and distinguishing characteristics among top institutions. </p>
+      <p> 🔗 <a href="https://github.com/AminTK/World-University-Rankings"> View Project </a></p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4> 🛠️ <a href="https://github.com/username/emergency-dashboard" target="_blank" > Credit Card Fraud Detection </a></h4>
+      <h4> 🛠️ <a href="https://github.com/AminTK/Credit-Card-Fraud-Detection" > Credit Card Fraud Detection </a></h4>
       <p> Optimized the dataset, analyzed the data and the relationships between its variables, and ultimately identified the dataset type and the appropriate methods required for it. Using methods like SMOTE, ADASYN and TomekLinks, trained various models while optimizing them to determine the most efficient model for predicting and detecting fraudulent transactions. </p>
-      <p> 🔗 <a href="https://github.com/AminTK/Credit-Card-Fraud-Detection.git"> View Project </a></p>
+      <p> 🔗 <a href="https://github.com/AminTK/Credit-Card-Fraud-Detection"> View Project </a></p>
     </td>
   </tr>
   <tr>
     <td>
-      <h4> 📊 <a href="https://github.com/username/fraud-detection" target="_blank" > AI and ML Job Listings USA </a></h4>
-      <p> Using NLP tools and techniques to understand the condition of each descriptions options. </p>
-      <p> 🔗 <a href="https://www.kaggle.com/code/amintavanaie/analyzing-ai-ml-jobs-in-usa-with-nlp"> View Project </a></p>
+      <h4> 📊 <a href="https://github.com/AminTK/Water-Quality" > Water Quality </a></h4>
+      <p> In this project, by examining and analyzing various water quality indicators, we aim to gain a clearer picture of the water samples' characteristics, identify differences between them, and determine which parameters are most significant in describing water quality. </p>
+      <p> 🔗 <a href="https://github.com/AminTK/Water-Quality"> View Project </a></p>
     </td>
   </tr>
+  
+  <tr>
+    <td>
+      <h4> 🛠️ <a href="https://github.com/AminTK/Heart-Attack" > Heart Attack </a></h4>
+      <p> In this project, by examining and analyzing indicators related to heart health and heart attacks, we aim to better understand the relationship between various factors and the recorded status of patients. Such an analysis can contribute to a better understanding of risk factors as well as the capabilities and limitations of data-driven methods in healthcare, although the findings will not replace a physician's diagnosis or an individual clinical assessment. </p>
+      <p> 🔗 <a href="https://github.com/AminTK/Heart-Attack"> View Project </a></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h4> 🛠️ <a href="https://github.com/AminTK/AI-and-ML-Job-Listings-USA" > AI and ML Job Listings in USA </a></h4>
+      <p> The dataset titled “AI and ML Job Listings in the United States” offers a comprehensive collection of job postings in the fields of Artificial Intelligence (AI) and Machine Learning (ML) across the U.S. Spanning from 2022 to 2024, the dataset captures the evolving landscape of AI/ML job opportunities. </p>
+      <p> 🔗 <a href="https://github.com/AminTK/AI-and-ML-Job-Listings-USA"> View Project </a></p>
+    </td>
+  </tr>
+
 </table>
 
 <hr style="height: 3px; background-color: black; border: none;">
